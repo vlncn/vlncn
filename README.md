@@ -5,8 +5,6 @@ I'm Ahmad, Electrical Engineer based in Indonesia. I build systems where sensors
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Fadhlurrahman-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfadhlurrahman-sumaryono-b0a2022b4)
 
----
-
 ## What I work with
 
 - **Embedded & hardware:** Arduino, ESP32, C++, sensor interfacing, FreeRTOS
@@ -18,6 +16,6 @@ I'm Ahmad, Electrical Engineer based in Indonesia. I build systems where sensors
 
 ## Currently building
 
-**Room temperature monitoring system:** an ESP32-based node that measures indoor temperature and compares it with the city's outdoor temperature, with data sent over **MQTT**, stored in **SQL**, and shown on a website. Designed with a battery-backed fail-safe so it keeps logging during scheduled power outages and uploads the buffered data once it's back online.
+**Room temperature monitoring system:** an ESP32-based node that measures indoor temperature and compares it with the city's outdoor temperature, with data sent over **MQTT**, stored in **SQL**, and shown on a website.
 
 ---
