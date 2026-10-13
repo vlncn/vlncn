@@ -1,16 +1,23 @@
-## Hi there 👋
+#Hi There 👋
 
-<!--
-**vlncn/vlncn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmad, Electrical Engineer based in Indonesia. I build systems where sensors, embedded hardware, and a bit of machine learning meet, and currently looking for an IoT / Control / Embedded System Engineer role.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Fadhlurrahman-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfadhlurrahman-sumaryono-b0a2022b4)
+
+---
+
+## What I work with
+
+- **Embedded & hardware:** Arduino, ESP32, C++, sensor interfacing, FreeRTOS
+- **Data & ML:** Python, data analysis, feature engineering, PyTorch
+- **IoT & backend:** MQTT, Firebase, postgreSQL
+- **Control & automation:** control systems, intelligent control, industrial automation
+
+---
+
+## Currently building
+
+**Room temperature monitoring system:** an ESP32-based node that measures indoor temperature and compares it with the city's outdoor temperature, with data sent over **MQTT**, stored in **SQL**, and shown on a website. Designed with a battery-backed fail-safe so it keeps logging during scheduled power outages and uploads the buffered data once it's back online.
+
+---
